@@ -316,7 +316,7 @@ triplelift.com,12158,RESELLER,6c33edb13117fd86
 xandr.com,13799,RESELLER
 
 # Facebook
-facebook.com,2403290579831579,DIRECT,c3e20eee3f780d68
+facebook.com, 2403290579831579, DIRECT, c3e20eee3f780d68
 
 # Admob
 google.com,pub-5454612519344873,DIRECT,f08c47fec0942fa0
